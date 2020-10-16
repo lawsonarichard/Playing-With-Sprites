@@ -12,4 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6fbb18c94eb7bfc4d9a1dc76ae107ebc, type: 3}
   m_Name: StartingState
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: "It's time to go to the grocery store.\r\nYou have your list.\r\nA few
+    small items.\r\nMilk\r\nEggs\r\nBread\r\nWater\r\nBeans\r\nChocolate \r\nYou
+    have your keys, your phone and your wallet.\r\n\r\nWhat else should you grab?\r\n\r\n1.
+    I have everything. Time to go.\r\n2. I need to grab my mask, there is a pandemic
+    going on after all.\r"
