@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6fbb18c94eb7bfc4d9a1dc76ae107ebc, type: 3}
   m_Name: E3-A2. Head to the Kitchen
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: You head to the kitchen
   nextStates: []

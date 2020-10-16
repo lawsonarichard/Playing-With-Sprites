@@ -12,5 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6fbb18c94eb7bfc4d9a1dc76ae107ebc, type: 3}
   m_Name: E3. Bedroom
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'You wake up and you have to
+
+
+    1. Shower
+
+    2. Hungry'
+  nextStates:
+  - {fileID: 11400000, guid: d83d0ead503e8b649b24ca20897217b7, type: 2}
+  - {fileID: 11400000, guid: 6c4ca5e24e8fdcf4f8fd04db72eef7b7, type: 2}

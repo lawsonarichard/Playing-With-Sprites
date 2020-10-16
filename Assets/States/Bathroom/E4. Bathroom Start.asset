@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6fbb18c94eb7bfc4d9a1dc76ae107ebc, type: 3}
   m_Name: E4. Bathroom Start
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: You're in the bath room. You shower and brush your teeth. Then head
+    back to the bedroom to get dressed.
   nextStates: []

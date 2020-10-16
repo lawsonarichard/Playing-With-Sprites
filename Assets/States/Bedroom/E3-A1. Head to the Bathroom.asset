@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6fbb18c94eb7bfc4d9a1dc76ae107ebc, type: 3}
   m_Name: E3-A1. Head to the Bathroom
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: You decide to head to the shower
+  nextStates:
+  - {fileID: 11400000, guid: 0432ecb5ade07134886a3a0b2649f009, type: 2}
